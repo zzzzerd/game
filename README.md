@@ -5,6 +5,15 @@
 This repository is used to store Unity learning materials, practice results, and future game development projects.
 
 ---
+# Author
+
+- Name: Shanrou Zhu  
+- GitHub: [shanrouzhu](https://github.com/shanrouzhu)  
+- Email: 2617513@dundee.ac.uk  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/shanrouzhu)
+
+---
 
 # Project Structure Overview
 
