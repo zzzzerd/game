@@ -17,7 +17,7 @@ This repository is used to store Unity learning materials, practice results, and
 
 # Project Structure Overview
 
-## SandBox
+## Practice
 This folder contains small Unity experiments and learning exercises.
 
 Typical contents:
